@@ -1,0 +1,16 @@
+1. In do while loop
+
+    1. Prompt user to enter a number for the height
+    2. Store the value in a variable called 'height'
+    3. Check the condition for the loop:
+        The height has to be an integer, superior or equal to 1 and inferior or equal to 8
+        If true, leave the loop;
+        otherwise, continue the loop.
+
+
+2. In a for loop, run 'height' times
+
+    1. Print the pyramid if conditions are met.
+    2. To achive a pyramid, the number of # is the same as c, which is the row number.
+    3. To allign it to the left side, we substract the number of # from the height and print spaces instead.
+
